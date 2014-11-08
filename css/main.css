@@ -1,0 +1,82 @@
+html {
+    height: 100%;
+    width: 100%;
+    color: #0A122A;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    height: 100%;
+    margin: 0 auto;
+    display: table;
+    background-color: #0A122A;
+}
+#container {
+    height: 100%;
+    padding: 24px;
+    width: 100%;
+    max-width: 600px;
+    padding-top: 8em;
+    padding-bottom: 4em;
+}
+.title {
+    color: #F2F2F2;
+    font-size: 2.0em;
+    line-height: 1.5;
+    font-weight: 700;
+}
+#info-packets, .about {
+    margin: 0;
+    padding: 0;
+}
+#info-packets li {
+    display: inline;
+}
+#info-packets li a, #info-packets li p, .about {
+    margin: 4px;
+    display: inline;
+}
+#info-packets li:last-child {
+    margin-right: 0;
+}
+#info-packets li a, #info-packets li p, .about {
+    padding-bottom: 1px;
+    display: inline-block;
+    color: #777;
+    border: 1px solid #585858;
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    -o-transition: .3s;
+    -ms-transition: .3s;
+    -moz-transition: .3s;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+#info-packets li a:hover {
+    color: #FFF;
+}
+#info-packets li a.purple:hover, #info-packets li p.purple:hover {
+    border-color: #BF00FF;
+}
+#info-packets li a.green:hover, #info-packets li p.green:hover {
+    border-color: #04B404;
+}
+#info-packets li a.red:hover, #info-packets li p.red:hover {
+    border-color: #FF0040;
+}
+#info-packets li a.orange:hover, #info-packets li p.orange:hover {
+    border-color: #FF8000;
+}
+#info-packets li a.yellow:hover, #info-packets li p.yellow:hover {
+    border-color: #FFFF00;
+}
+#info-packets li a.lightblue:hover, #info-packets li p.lightblue:hover {
+    border-color: #00FFFF;
+}
+#info-packets li a.blue:hover, #info-packets li p.blue:hover {
+    border-color: #0040FF;
+}
