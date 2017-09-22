@@ -34,7 +34,7 @@ layout: default
 			<div class="grid">
 
 			{% for project in site.data.projects %}
-			<a href="{{ project.link }}">
+			<a target="_blank" href="{{ project.link }}">
 				<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
 					<h1>{{ project.name }}</h1>
 					<p>{{ project.shortDescription }}</p>
