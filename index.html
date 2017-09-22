@@ -1,51 +1,52 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Neil Patil</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/animate.css">
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link href='http://fonts.googleapis.com/css?family=Lato:400,600,700' rel='stylesheet' type='text/css'>
-            <script type="text/javascript">
-                            var _gaq = _gaq || [];
-                            _gaq.push(['_setAccount', 'UA-42514029-8']);
-                            _gaq.push(['_trackPageview']);
-                            (function() {
-                                var ga = document.createElement('script');
-                                ga.type = 'text/javascript';
-                                ga.async = true;
-                                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                                var s = document.getElementsByTagName('script')[0];
-                                s.parentNode.insertBefore(ga, s);
-                            })();
-            </script>
-        </head>
-        <body>
-            <div id="container" class="animated fadeInLeft">
-                <h1 class="title">Neil Patil - patil215</h1>
-                <ul id="info-packets">
-                    <li><a class="green" href="projects.html">My Projects</a></li>
-                </ul>
-                <ul id="info-packets">
-                    <li><a href="http://github.com/patil215" target="_blank" class="yellow"><span class="fa fa-github fa-lg"></span></a></li>
-                    <li><a href="doc/resume.pdf" target="_blank" class="orange"><span class="fa fa-file-text fa-lg"></span></a></li>
-                    <li><a href="mailto:neilpatil215@gmail.com" class="purple"><span class="fa fa-envelope fa-lg"></span></a></li>
-                    <li><a href="http://www.linkedin.com/in/patil215/" target="_blank" class="lightblue"><span class="fa fa-linkedin fa-lg"></span></a></li>
-                </ul>
-            </div>
-            <script>
-                                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-                                    ga('create', 'UA-42514029-8', 'auto');
-                                    ga('send', 'pageview');
-            </script>
-        </body>
-    </html>
+--- 
+layout: default
+---
+<div class="background" style="background-color: #E0E0E0">
+
+	<div class="container">
+
+		<br>
+		<br>
+
+		<div class="col-md-12">
+			<h1 class="title">Neil Patil</h1>
+			<br>
+
+			<div class="col-md-2">
+				<img class="me" src="img/me.jpg">
+			</div>
+
+			<div class="col-md-10">
+				<p>Hey there, I'm Neil. I like running, building things, and Mexican food. I am a Turing Scholar studying Computer Science at the University of Texas at Austin.</p>
+
+				<p>I've spent a lot of my life doing tech, particularly software - last summer I worked at Google as a SWE. Since then, I've decided I want to learn about things outside of the pure software engineering domain. I'm currently interested in computer security, drones, and robot learning.</p>
+
+				<p>If you'd like to find out more about me, here's my <a href="https://github.com/patil215">Github</a>, my <a href="doc/resume.pdf">resume</a>, and my <a href="neilpatil215@gmail.com">email</a>.</p>
+			</div>
+		</div>
+
+		<div class="col-md-12">
+			<h1 class="title">Projects</h1>
+
+			<p>Some of the things I've built.</p>
+			<br>
+
+			<div class="grid">
+
+			{% for project in site.data.projects %}
+			<a href="{{ project.link }}">
+				<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
+					<h1>{{ project.name }}</h1>
+					<p>{{ project.shortDescription }}</p>
+					<div class="layer" style="background-image: url({{ project.picture }});">
+				    </div>
+				</div>
+			</a>
+
+			{% endfor %}
+			</div>
+		</div>
+
+	</div>
+
+</div>

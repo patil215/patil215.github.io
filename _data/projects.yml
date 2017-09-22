@@ -1,0 +1,171 @@
+# Possible sizes:
+# ss (small square, 1x1)
+# svr (small vertical rectangle, 1x2)
+# shr (small horizontal rectangle, 2x1)
+# ms (medium square, 2x2)
+# mvr (medium vertical rectangle, 2x3)
+# mhr (medium horizontal rectangle, 3x2)
+# bs (big square, 2x2)
+
+# Geobells, LASACTF, Resume Template, Drone, ManaTEAMS, QuickHAC, Golden Gate, Intube, Looply, Boardly, SmArtGallery, LASA UIL Training, LASA SciO, boids, synonym-control-f
+#
+#
+
+# green: #4CAF50
+# purple: #9C27B0
+# blue: #1976D2
+# dark purple: #4A148C
+# red: #C62828
+
+- name: LASACTF
+  size: mhr
+  shortDescription: An online computer security competition
+  longDescription:
+  picture: /img/lasactf.png
+  link: https://lasactf.com
+  github: 
+  color: "#9C27B0"
+
+- name: Scrapsort
+  size: shr
+  shortDescription: A computer-vision based recycling sorter
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/scrapsort
+  github: 
+  color: "#F4511E"
+
+- name: Drone
+  size: ss
+  shortDescription: An in-progress automatic Arduino drone
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/drone
+  github: 
+  color: "#1976D2"
+
+- name: RFID Lock
+  size: ss
+  shortDescription: An automated RFID lock for my dorm
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/rfid-lock
+  github: 
+  color: "#C62828"
+
+- name: Water Alarm
+  size: ss
+  shortDescription: An alarm clock that dumps water on my head
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/water-alarm
+  github: 
+  color: "#607D8B"
+
+- name: Battlecode
+  size: ss
+  shortDescription: My entry into the Battlecode 2017 competition
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/battlecode
+  github: 
+  color: "#607D8B"
+
+- name: manaTEAMS
+  size: ms
+  shortDescription: Easily check your grades
+  longDescription:
+  picture: /img/manateams.png
+  link: http://manateams.com
+  github: 
+  color: "#4A148C"
+
+- name: Geobells
+  size: ms
+  shortDescription: A location-based reminders app
+  longDescription:
+  picture: /img/geobells.png
+  link: http://geobells.com
+  github: 
+  color: "#4CAF50"
+
+- name: QuickHAC
+  size: ms
+  shortDescription: View your AISD and RRISD assignments
+  longDescription:
+  picture: /img/quickhac.png
+  link: https://github.com/quickhac
+  github: 
+  color: "#1976D2"
+
+- name: Intube
+  size: ss
+  shortDescription: Use computer vision to search "within" Youtube videos
+  longDescription:
+  picture:
+  link: 
+  github: 
+  color: "#C62828"
+
+- name: Looply
+  size: ss
+  shortDescription: Automatically adjust your volume based on ambient noise
+  longDescription:
+  picture:
+  link: 
+  github: 
+  color: "#1976D2"
+
+- name: Golden Gate Science Olympiad
+  size: shr
+  shortDescription: A Science Olympiad competition at Berkeley and Stanford
+  longDescription:
+  picture: /img/goldengate.png
+  link: http://goldengateso.com
+  github: 
+  color: "#C62828"
+
+- name: Scrambler
+  size: shr
+  shortDescription: My nationals-winning Science Olympiad device
+  longDescription:
+  picture:
+  link: http://tinyurl.com/scramblerdevice
+  github: 
+  color: "#F4511E"
+
+- name: Boardly
+  size: ss
+  shortDescription: A remountable device to draw on whiteboards automatically
+  longDescription:
+  picture: 
+  link: 
+  github: 
+  color: "#607D8B"
+
+- name: Synonym Control F
+  size: ss
+  shortDescription: Find synonyms on a page
+  longDescription:
+  picture:
+  link: https://chrome.google.com/webstore/detail/synonym-control-f/ecaoofnlakiannealbioeelkagigklll?hl=en
+  github: 
+  color: "#4CAF50"
+
+- name: SmArtGallery
+  size: shr
+  shortDescription: A digital art gallery
+  longDescription:
+  picture: /img/daylighted.png
+  link: https://day-lighted.com
+  github: 
+  color: "#424242"
+
+- name: LASA SciO
+  size: ss
+  shortDescription: LASA Science Olympiad team homepage
+  longDescription:
+  picture:
+  link: http://lasascio.com
+  github: 
+  color: "#4A148C"
