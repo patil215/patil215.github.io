@@ -69,7 +69,7 @@
   picture: 
   link: https://github.com/patil215/battlecode
   github: 
-  color: "#607D8B"
+  color: "#C62828"
 
 - name: manaTEAMS
   size: ms
@@ -85,7 +85,7 @@
   shortDescription: A location-based reminders app
   longDescription:
   picture: /img/geobells.png
-  link: http://geobells.com
+  link: http://geobellsapp.com
   github: 
   color: "#4CAF50"
 
