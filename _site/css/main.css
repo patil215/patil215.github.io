@@ -12,7 +12,8 @@
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  padding: 24px; }
+  padding: 24px;
+  padding-bottom: 128px; }
 
 .grid-item {
   float: left;
