@@ -62,12 +62,12 @@
   github: 
   color: "#607D8B"
 
-- name: Battlecode
+- name: ResuMod
   size: ss
-  shortDescription: My entry into the Battlecode 2017 competition
+  shortDescription: A lightweight modular resume template
   longDescription:
   picture: 
-  link: https://github.com/patil215/battlecode
+  link: https://github.com/patil215/resumod
   github: 
   color: "#C62828"
 
@@ -97,6 +97,15 @@
   link: https://github.com/quickhac
   github: 
   color: "#1976D2"
+
+- name: Battlecode
+  size: ss
+  shortDescription: My entry into the Battlecode 2017 competition
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/battlecode
+  github: 
+  color: "#607D8B"
 
 - name: Intube
   size: ss
