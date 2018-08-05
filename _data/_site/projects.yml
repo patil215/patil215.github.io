@@ -18,36 +18,12 @@
 # red: #C62828
 
 - name: Deep Drone
-  size: ms
-  shortDescription: Investigating using reinforcement learning to fly a drone
-  picture: /img/drone.png
+  size: mhr
+  shortDescription: An investigation into using reinforcement learning to fly a drone
+  picture:
   link: /doc/drone_paper.pdf
   github:
   color: "#1976D2"
-
-- name: Battlecode
-  size: ms
-  shortDescription: My entry into the Battlecode 2018 competition, placing 9th
-  link: https://github.com/patil215/battlecode-2018
-  github: 
-  picture: /img/battlecode.png
-  color: "#C62828"
-
-- name: Robocup@Home
-  size: shr
-  shortDescription: Helping train a Toyota HSR robot to pick up groceries
-  link: 
-  github: 
-  color: "#4CAF50"
-
-- name: Scrapsort
-  size: shr
-  shortDescription: A computer-vision based recycling sorter
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/scrapsort
-  github: 
-  color: "#F4511E"
 
 - name: LASACTF
   size: mhr
@@ -57,6 +33,15 @@
   link: https://lasactf.com
   github: 
   color: "#9C27B0"
+
+- name: Scrapsort
+  size: shr
+  shortDescription: A computer-vision based recycling sorter
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/scrapsort
+  github: 
+  color: "#F4511E"
 
 - name: Drone
   size: ss
@@ -135,9 +120,18 @@
   shortDescription: Use computer vision to search "within" Youtube videos
   longDescription:
   picture:
-  link: https://github.com/iRapha/search_within_videos
+  link: 
   github: 
   color: "#C62828"
+
+- name: Looply
+  size: ss
+  shortDescription: Automatically adjust your volume based on ambient noise
+  longDescription:
+  picture:
+  link: 
+  github: 
+  color: "#1976D2"
 
 - name: Golden Gate Science Olympiad
   size: shr
