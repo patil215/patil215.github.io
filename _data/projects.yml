@@ -16,6 +16,15 @@
 # blue: #1976D2
 # dark purple: #4A148C
 # red: #C62828
+#
+
+- name: Big Brother
+  size: ms
+  shortDescription: Using hidden cameras to steal writing
+  picture: img/camera.png
+  link: /doc/camera_paper.pdf
+  github: 
+  color: "#4CAF50"
 
 - name: Deep Drone
   size: ms
@@ -33,13 +42,6 @@
   picture: /img/battlecode.png
   color: "#C62828"
 
-- name: Robocup@Home
-  size: shr
-  shortDescription: Helping train a Toyota HSR robot to pick up groceries
-  link: 
-  github: 
-  color: "#4CAF50"
-
 - name: Scrapsort
   size: shr
   shortDescription: A computer-vision based recycling sorter
@@ -48,6 +50,31 @@
   link: https://github.com/patil215/scrapsort
   github: 
   color: "#F4511E"
+
+- name: Robocup@Home
+  size: shr
+  shortDescription: Helping train a Toyota HSR robot to pick up groceries
+  link: 
+  github: 
+  color: "#3AAA50"
+
+- name: ResuMod
+  size: ss
+  shortDescription: A lightweight modular resume template
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/resumod
+  github: 
+  color: "#F4511E"
+
+- name: RFID Lock
+  size: ss
+  shortDescription: An automated RFID lock for my dorm
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/rfid-lock
+  github: 
+  color: "#1976D2"
 
 - name: LASACTF
   size: mhr
@@ -58,24 +85,6 @@
   github: 
   color: "#9C27B0"
 
-- name: Drone
-  size: ss
-  shortDescription: An in-progress automatic Arduino drone
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/drone
-  github: 
-  color: "#1976D2"
-
-- name: RFID Lock
-  size: ss
-  shortDescription: An automated RFID lock for my dorm
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/rfid-lock
-  github: 
-  color: "#C62828"
-
 - name: Water Alarm
   size: ss
   shortDescription: An alarm clock that dumps water on my head
@@ -84,15 +93,6 @@
   link: https://github.com/patil215/water-alarm
   github: 
   color: "#607D8B"
-
-- name: ResuMod
-  size: ss
-  shortDescription: A lightweight modular resume template
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/resumod
-  github: 
-  color: "#C62828"
 
 - name: manaTEAMS
   size: ms
