@@ -86,7 +86,7 @@
   color: "#9C27B0"
 
 - name: Water Alarm
-  size: ss
+  size: svr
   shortDescription: An alarm clock that dumps water on my head
   longDescription:
   picture: 
