@@ -18,13 +18,13 @@
 # red: #C62828
 #
 
-- name: Big Brother
-  size: ms
-  shortDescription: Using hidden cameras to steal writing
-  picture: img/camera.png
-  link: /doc/camera_paper.pdf
-  github: 
-  color: "#4CAF50"
+#- name: Big Brother
+#  size: ms
+#  shortDescription: Using hidden cameras to steal writing
+#  picture: img/camera.png
+#  link: /doc/camera_paper.pdf
+#  github: 
+#  color: "#4CAF50"
 
 - name: Deep Drone
   size: ms
