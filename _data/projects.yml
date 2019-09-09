@@ -18,13 +18,13 @@
 # red: #C62828
 #
 
-#- name: Big Brother
-#  size: ms
-#  shortDescription: Using hidden cameras to steal writing
-#  picture: img/camera.png
-#  link: /doc/camera_paper.pdf
-#  github: 
-#  color: "#4CAF50"
+- name: Big Wave Shoulder Surfing
+  size: ms
+  shortDescription: Using camera surveillance to steal handwriting
+  picture: img/camera.png
+  link: /doc/surfing.pdf
+  github: 
+  color: "#4CAF50"
 
 - name: Deep Drone
   size: ms
@@ -34,6 +34,24 @@
   github:
   color: "#1976D2"
 
+- name: Scrapsort
+  size: svr
+  shortDescription: A computer-vision based recycling sorter
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/scrapsort
+  github: 
+  color: "#F4511E"
+
+- name: UTCTF
+  size: svr
+  shortDescription: An international computer security contest with 5k+ competitors
+  longDescription: 
+  picture: /img/isss.png
+  link: https://github.com/utisss
+  github:
+  color: "#4A148C"
+
 - name: Battlecode
   size: ms
   shortDescription: My entry into the Battlecode 2018 competition, placing 9th
@@ -42,30 +60,21 @@
   picture: /img/battlecode.png
   color: "#C62828"
 
-- name: Scrapsort
-  size: shr
-  shortDescription: A computer-vision based recycling sorter
+- name: Water Alarm
+  size: svr
+  shortDescription: An alarm clock that dumps water on my head
   longDescription:
   picture: 
-  link: https://github.com/patil215/scrapsort
+  link: https://github.com/patil215/water-alarm
   github: 
-  color: "#F4511E"
+  color: "#607D8B"
 
 - name: Robocup@Home
   size: shr
-  shortDescription: Helping train a Toyota HSR robot to pick up groceries
-  link: 
+  shortDescription: Training a Toyota HSR robot to pick up groceries
+  link: http://www.cs.utexas.edu/~AustinVilla/?p=athome
   github: 
   color: "#3AAA50"
-
-- name: ResuMod
-  size: ss
-  shortDescription: A lightweight modular resume template
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/resumod
-  github: 
-  color: "#F4511E"
 
 - name: RFID Lock
   size: ss
@@ -77,31 +86,22 @@
   color: "#1976D2"
 
 - name: LASACTF
-  size: mhr
-  shortDescription: An online computer security competition
+  size: shr
+  shortDescription: An online computer security competition for high schoolers
   longDescription:
   picture: /img/lasactf.png
   link: https://lasactf.com
   github: 
   color: "#9C27B0"
 
-- name: Water Alarm
-  size: svr
-  shortDescription: An alarm clock that dumps water on my head
+- name: ResuMod
+  size: ss
+  shortDescription: A lightweight modular resume template
   longDescription:
   picture: 
-  link: https://github.com/patil215/water-alarm
+  link: https://github.com/patil215/resumod
   github: 
-  color: "#607D8B"
-
-- name: manaTEAMS
-  size: ms
-  shortDescription: Easily check your grades
-  longDescription:
-  picture: /img/manateams.png
-  link: http://manateams.com
-  github: 
-  color: "#4A148C"
+  color: "#F4511E"
 
 - name: Geobells
   size: ms
@@ -111,6 +111,15 @@
   link: http://geobellsapp.com
   github: 
   color: "#4CAF50"
+
+- name: manaTEAMS
+  size: ms
+  shortDescription: Easily check your grades
+  longDescription:
+  picture: /img/manateams.png
+  link: http://manateams.com
+  github: 
+  color: "#4A148C"
 
 - name: QuickHAC
   size: ms
