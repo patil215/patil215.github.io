@@ -3,6 +3,10 @@
 ---
 @charset "utf-8";
 
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .grid-item p, .grid-item h1 {
 	padding: 4px;
 	margin: 4px;
@@ -38,8 +42,8 @@
 }
 
 .me {
-	max-width: 124px;
-	max-width: 124px;
+	max-width: 120px;
+	max-width: 120px;
 	margin: 8px;
 }
 

@@ -45,7 +45,7 @@
 
 - name: UTCTF
   size: svr
-  shortDescription: An international computer security contest with 5k+ competitors
+  shortDescription: An international computer security contest with 10k+ competitors
   longDescription: 
   picture: /img/isss.png
   link: https://github.com/utisss
@@ -60,14 +60,14 @@
   picture: /img/battlecode.png
   color: "#C62828"
 
-- name: Water Alarm
+- name: RFID Lock
   size: svr
-  shortDescription: An alarm clock that dumps water on my head
+  shortDescription: An automated RFID lock for my dorm
   longDescription:
   picture: 
-  link: https://github.com/patil215/water-alarm
+  link: https://github.com/patil215/rfid-lock
   github: 
-  color: "#607D8B"
+  color: "#1976D2"
 
 - name: Robocup@Home
   size: shr
@@ -76,14 +76,14 @@
   github: 
   color: "#3AAA50"
 
-- name: RFID Lock
+- name: Water Alarm
   size: ss
-  shortDescription: An automated RFID lock for my dorm
+  shortDescription: An alarm clock that dumps water on my head
   longDescription:
   picture: 
-  link: https://github.com/patil215/rfid-lock
+  link: https://github.com/patil215/water-alarm
   github: 
-  color: "#1976D2"
+  color: "#607D8B"
 
 - name: LASACTF
   size: shr
