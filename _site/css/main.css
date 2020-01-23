@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', 'Roboto', sans-serif;
-  background: #FAFAFA; }
+  background: #FBFBFB; }
 
 p, ul, li {
   font-size: 18px;
@@ -22,6 +22,12 @@ p, ul, li {
 
 .post-thanks {
   margin-top: 192px; }
+
+.post-link {
+  color: #333; }
+
+.post-read-more {
+  display: inline; }
 
 #end-separator {
   margin-top: 72px;
