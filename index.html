@@ -1,52 +1,53 @@
 --- 
 layout: default
 ---
-<div class="background" style="background-color: #E0E0E0">
+<div class="container">
 
-	<div class="container">
+	<div class="col-md-12">
 
+		<h1 class="title">Neil Patil</h1>
 		<br>
-		<br>
 
-		<div class="col-md-12">
-			<h1 class="title">Neil Patil</h1>
-			<br>
-
-			<div class="col-md-2">
-				<img class="me" src="img/me.jpg">
-			</div>
-
-			<div class="col-md-10">
-				<p>Hey there, I'm Neil. I just finished up studying Computer Science at UT Austin. I'm interested in computer security and robotics. I like cooking, running, and eating Mexican food.</p>
-
-				<p>I'm excited about startups. In a few months, I'll be joining <a href="https://vanta.com">Vanta</a>, working to secure the internet and improve consumer trust. I spent last summer at <a href="https://ikerobotics.com">Ike Robotics</a> working on self-driving trucks. Before that, I worked at a few <a href="https://facebook.com">large</a> <a href="https://google.com">tech</a> <a href="https://indeed.com">companies</a>.
-
-				<p>In school, I was president of <a href="https://www.isss.io/" target="_blank">ISSS</a>. We run national Capture-the-Flag competitions and teach basic security fundamentals. Our goal is to make security beginner-friendly, improve the culture and diversity of the cybersecurity community, and establish UT as a competitive security powerhouse.</p>
-
-				<p>If you'd like to find out more about me, here's my <a href="https://github.com/patil215" target="_blank">Github</a>, my <a target="_blank" href="{{ "/doc/resume.pdf" | prepend: site.baseurl }}">resume</a>, and my <a href="mailto:neilpatil215@gmail.com">email</a>.
-			</div>
+		<div class="col-md-2">
+			<img class="me" src="img/me.jpg">
 		</div>
 
-		<div class="col-md-12">
-			<h1 class="title">Projects</h1>
+		<div class="col-md-10">
+			<p>Hey there, I'm Neil. I just finished up studying Computer Science at UT Austin. I'm interested in computer security and robotics. I like cooking, running, and eating Mexican food.</p>
+
+			<p>I'm excited about startups. In a few months, I'll be joining <a href="https://vanta.com">Vanta</a>, working to secure the internet and improve consumer trust. I spent last summer at <a href="https://ikerobotics.com">Ike Robotics</a> working on self-driving trucks. Before that, I worked at a few <a href="https://facebook.com">large</a> <a href="https://google.com">tech</a> <a href="https://indeed.com">companies</a>.
+
+			<p>In school, I was president of <a href="https://www.isss.io/" target="_blank">ISSS</a>. We run national Capture-the-Flag competitions and teach basic security fundamentals. Our goal is to make security beginner-friendly, improve the culture and diversity of the cybersecurity community, and establish UT as a competitive security powerhouse.</p>
+
+			<p>If you'd like to find out more about me, here's my <a href="https://github.com/patil215" target="_blank">Github</a>, my <a target="_blank" href="{{ "/doc/resume.pdf" | prepend: site.baseurl }}">resume</a>, and my <a href="mailto:neilpatil215@gmail.com">email</a>.
+		</div>
+	</div>
+
+	<!--<div class="col-md-12">
+		<h1 class="title">Blog</h1>
+
+		<p>I'm starting to write! Go <a href="blog.html">here</a>.</p>
+	</div>-->
+
+	<div class="col-md-12">
+		<h1 class="title">Projects</h1>
 
 
-			<div class="grid">
+		<div class="grid">
 
-			{% for project in site.data.projects %}
-			<a target="_blank" href="{{ project.link }}">
-				<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
-					<h1>{{ project.name }}</h1>
-					<p>{{ project.shortDescription }}</p>
-					<div class="layer" style="background-image: url({{ project.picture }});">
-				    </div>
+		{% for project in site.data.projects %}
+		<a target="_blank" href="{{ project.link }}">
+			<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
+				<h1>{{ project.name }}</h1>
+				<p>{{ project.shortDescription }}</p>
+				<div class="layer" style="background-image: url({{ project.picture }});">
 				</div>
-			</a>
-
-			{% endfor %}
 			</div>
-		</div>
+		</a>
 
+		{% endfor %}
+		</div>
 	</div>
 
 </div>
+

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="background" style="background-color: #E0E0E0">
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+</div>
