@@ -7,7 +7,7 @@ excerpt: ""
 thanks: 
 ---
 
-Ask any career mentor, financial planner, or parent for general life guidance, and they'll probably give you the variations of the same idea: invest time and resources now so that you can achieve successful outcomes in the long term. Whether that takes the form of trying to develop a career, putting money into an IRA, or investing in educating ourselves, the general reasoning is that if we work hard now, we'll be better equipped to enjoy the fruits of our labor in the future.
+Ask any career mentor, financial planner, or parent for general life guidance, and they'll probably give you variations of the same idea: invest time and resources now so that you can achieve successful outcomes in the long term. Whether that takes the form of trying to develop a career, putting money into an IRA, or investing in educating ourselves, the general reasoning is that if we work hard now, we'll be better equipped to enjoy the fruits of our labor in the future.
 
 In general, this advice is generally true - investing effort now almost always leads to better outcomes later. But occasionally, it can also lead to an unexpected contradiction: sometimes, putting effort into achieving an outcome can *take away from*, rather than add to, the ability to enjoy that outcome's benefits.
 
