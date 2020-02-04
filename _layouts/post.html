@@ -15,15 +15,21 @@ layout: default
 
   <hr id="end-separator">
 
+{% if page.thanks %}
+
   <div class="post-thanks">
+
     <p>Thanks to {{ page.thanks }} for reading drafts of this.</p>
+
   </div>
+
+{% endif %}
 
 </article>
 
 <script>
 $(function(){
-  $(".post-content a").attr("target","_blank");
+  //$(".post-content a").attr("target","_blank");
 });
 </script>
 

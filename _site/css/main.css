@@ -1,77 +1,34 @@
-body {
-  font-family: 'Lato', 'Roboto', sans-serif;
-  background: #FBFBFB; }
+body { font-family: 'Lato', 'Roboto', sans-serif; background: #FBFBFB; }
 
-p, ul, li {
-  font-size: 18px;
-  line-height: 28px;
-  margin: 0 0 28px; }
+p, ul, li { font-size: 18px; line-height: 28px; margin: 0 0 28px; }
 
-.grid-item p, .grid-item h1 {
-  padding: 4px;
-  margin: 4px;
-  color: #FFFFFF; }
+.grid-item p, .grid-item h1 { padding: 4px; margin: 4px; color: #FFFFFF; }
 
-.post-image {
-  width: 100%;
-  max-height: 264px;
-  object-fit: cover; }
+.post-image { width: 100%; max-height: 264px; object-fit: cover; }
 
-.post-title {
-  margin-top: 48px; }
+.post-title { margin-top: 48px; }
 
-.post-thanks {
-  margin-top: 192px; }
+.post-thanks { margin-top: 192px; }
 
-.post-link {
-  color: #333; }
+.post-link { color: #333; }
 
-.post-read-more {
-  display: inline; }
+.post-read-more { display: inline; }
 
-#end-separator {
-  margin-top: 72px;
-  margin-bottom: 72px;
-  width: 50%; }
+#end-separator { margin-top: 72px; margin-bottom: 72px; width: 50%; }
 
-hr {
-  background-color: #949494;
-  height: 1px; }
+hr { background-color: #949494; height: 1px; }
 
-.title {
-  margin-top: 48px;
-  margin-bottom: 24px;
-  font-size: 36px; }
+.title { margin-top: 48px; margin-bottom: 24px; font-size: 36px; }
 
-.container {
-  max-width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 24px;
-  padding-bottom: 128px; }
+.container { max-width: 960px; margin-left: auto; margin-right: auto; padding: 24px; padding-bottom: 128px; }
 
-.grid-item {
-  float: left;
-  width: 80px;
-  height: 60px;
-  border: 2px;
-  overflow: hidden;
-  border-color: #37474F;
-  border-style: double; }
+.grid-item { float: left; width: 80px; height: 60px; border: 2px; overflow: hidden; border-color: #37474F; border-style: double; }
 
-.grid-item:hover {
-  opacity: 0.75; }
+.grid-item:hover { opacity: 0.75; }
 
-.me {
-  max-width: 120px;
-  max-width: 120px;
-  margin: 8px; }
+.me { max-width: 120px; max-width: 120px; margin: 8px; }
 
-.layer {
-  width: 100%;
-  height: 100%;
-  padding: 12px;
-  background-size: cover; }
+.layer { width: 100%; height: 100%; padding: 12px; background-size: cover; }
 
 /* 
 Possible sizes:
@@ -83,61 +40,33 @@ mvr (medium vertical rectangle, 2x3)
 mhr (medium horizontal rectangle, 3x2)
 bs (big square, 2x2)
 */
-.grid-item-ss {
-  width: 140px;
-  height: 140px; }
+.grid-item-ss { width: 140px; height: 140px; }
 
-.grid-item-svr {
-  width: 140px;
-  height: 280px; }
+.grid-item-svr { width: 140px; height: 280px; }
 
-.grid-item-shr {
-  width: 280px;
-  height: 140px; }
+.grid-item-shr { width: 280px; height: 140px; }
 
-.grid-item-ss h1, .grid-item-svr h1, .grid-item-shr h1 {
-  font-size: 18px; }
+.grid-item-ss h1, .grid-item-svr h1, .grid-item-shr h1 { font-size: 18px; }
 
-.grid-item-ss p, .grid-item-svr p, .grid-item-shr p {
-  font-size: 12px; }
+.grid-item-ss p, .grid-item-svr p, .grid-item-shr p { font-size: 12px; }
 
-.grid-item-ms {
-  width: 280px;
-  height: 280px; }
+.grid-item-ms { width: 280px; height: 280px; }
 
-.grid-item-mvr {
-  width: 280px;
-  height: 420px; }
+.grid-item-mvr { width: 280px; height: 420px; }
 
-.grid-item-mhr {
-  width: 420px;
-  height: 280px; }
+.grid-item-mhr { width: 420px; height: 280px; }
 
-.grid-item-ms h1, .grid-item-mvr h1, .grid-item-mhr h1 {
-  font-size: 24px; }
+.grid-item-ms h1, .grid-item-mvr h1, .grid-item-mhr h1 { font-size: 24px; }
 
-.grid-item-ms p, .grid-item-mvr p, .grid-item-mhr p {
-  font-size: 14px; }
+.grid-item-ms p, .grid-item-mvr p, .grid-item-mhr p { font-size: 14px; }
 
-.grid-item-bs {
-  width: 420px;
-  height: 420px; }
+.grid-item-bs { width: 420px; height: 420px; }
 
-.grid-item-bs h1 {
-  font-size: 24px;
-  padding: 8px;
-  margin: 8px; }
+.grid-item-bs h1 { font-size: 24px; padding: 8px; margin: 8px; }
 
-.grid-item-bs p {
-  font-size: 16px;
-  padding: 8px;
-  margin: 8px; }
+.grid-item-bs p { font-size: 16px; padding: 8px; margin: 8px; }
 
-@media (max-width: 750px) {
-  .grid-item-mvr {
-    width: 280px;
-    height: 280px; }
+@media (max-width: 750px) { .grid-item-mvr { width: 280px; height: 280px; }
+  .grid-item-mhr { width: 280px; height: 280px; } }
 
-  .grid-item-mhr {
-    width: 280px;
-    height: 280px; } }
+/*# sourceMappingURL=main.css.map */
