@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effort Enjoyment Dissonance"
+title: "Effort-Enjoyment Dissonance"
 image: yard.jpg
 #excerpt: "Ask any career mentor, financial planner, or parent for general life guidance, and they'll probably give you the variations of the same idea: invest time and ..."
 excerpt: ""
@@ -21,7 +21,7 @@ Many people realize these contradictions, but I think sometimes others don't unt
 
 That dissonance can result in confusion and unhappiness for those that don't realize it until later. Like the Harvard undergrad that feels pressured to do something prestigious, but doesn't know what, since working to get into Harvard meant they didn't get the chance to find out their true interests before college. Or the wealthy person that's restless, or cracking under stress, and secretly wishes they were spending their days alone on a fishing boat. Or the 67 year old that realizes retirement maybe isn't all that great.[^3]
 
-Effort enjoyment dissonance comes from working towards outcomes without fully realizing the opportunity cost that comes from achieving them. This is especially easy to fall into when aiming for prestigious goals, since specific, measurable achievements - college acceptances (instead of general success), wealth (instead of fulfilling work), retirement age (instead of meaningful experiences) - don't make obvious all the externalities that go into them. 
+Effort-enjoyment dissonance comes from working towards outcomes without fully realizing the opportunity cost that comes from achieving them. This is especially easy to fall into when aiming for prestigious goals, since specific, measurable achievements - college acceptances (instead of general success), wealth (instead of fulfilling work), retirement age (instead of meaningful experiences) - don't make obvious all the externalities that go into them. 
 
 To that end, it's probably worthwhile to periodically reevaluate how your efforts influence the outcomes you're working towards. What are you investing in? What are you hoping to get out of it, and how do your efforts change your ability to reap their rewards? Make sure the returns minus the efforts actually correlate with the successful outcome you want. If not, it might be time to find different things to work towards.
 
