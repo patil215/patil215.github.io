@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Unfinished Internet's Side Effects"
+title: "The Side Effects of an Unfinished Internet"
 image: goldengate.jpg
 excerpt: ""
 thanks: Ehsan Asdar
