@@ -16,6 +16,14 @@ p, ul, li { font-size: 18px; line-height: 28px; margin: 0 0 28px; }
 
 .post-read-more { display: inline; }
 
+#mc_embed_signup { background: #fff; clear: left; font-size: 14px; font-family: 'Lato', 'Roboto', sans-serif; width: 75%; margin-left: auto; margin-right: auto; margin-top: 12px; margin-bottom: 24px; }
+
+.email::placeholder { font-family: 'Lato'; }
+
+.email-label { font-weight: 400 !important; /*float: left; width: 400px; text-align: right;*/ }
+
+.flex { display: flex; }
+
 .footnotes { margin-top: 128px; }
 
 #end-separator { margin-top: 72px; margin-bottom: 72px; width: 50%; }
