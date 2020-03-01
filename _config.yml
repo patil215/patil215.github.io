@@ -1,8 +1,19 @@
 title: Neil Patil
 email: neilpatil215@gmail.com
-description: Personal website of Neil Patil.
-baseurl: ""
-url: ""
+tagline: Personal website of Neil Patil
+description: Neil Patil's website, with links to blog posts and projects.
+baseurl: https://neilpatil.me
+url: https://neilpatil.me
 github_username:  patil215
+logo: /img/favicon.jpg
+author: neilpatil215
+plugins:
+  - jekyll-seo-tag
+social:
+  name: Neil Patil
+  links:
+    - https://twitter.com/neilpatil215
+    - https://www.linkedin.com/in/patil215/
+    - https://github.com/patil215
 
 markdown: kramdown

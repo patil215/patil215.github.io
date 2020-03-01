@@ -2,7 +2,6 @@
 layout: post
 title: "Effort-Enjoyment Dissonance"
 image: yard.jpg
-#excerpt: "Ask any career mentor, financial planner, or parent for general life guidance, and they'll probably give you the variations of the same idea: invest time and ..."
 excerpt: ""
 thanks: 
 ---

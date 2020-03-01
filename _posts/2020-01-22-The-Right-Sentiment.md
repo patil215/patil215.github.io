@@ -2,6 +2,7 @@
 layout: post
 title: "The Right Sentiment"
 image: mooncrowd.jpg
+excerpt: ""
 thanks: Saagar Pateder
 ---
 

@@ -3,23 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <meta name="keywords" content="Neil,Patil,Projects,Tech,Aerospace,Security,Web Development">
-  <meta name="author" content="Neil Patil">
-
-	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
-	<link href='https://fonts.googleapis.com/css?family=Roboto:300,400italic,400|Roboto+Condensed:300,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
   <script src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
-
   <script src="js/masonry.js"></script>
-
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	<script src="https://use.fontawesome.com/edd8af955f.js"></script>
 
@@ -31,7 +20,6 @@
   <link rel="shortcut icon" type="image/png" href="/img/favicon.jpg"/>
 
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
  
   {% if jekyll.environment == 'production' %}
@@ -47,4 +35,8 @@
   </script>
   {% endif %}
 
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{Neil,Patil,Projects,Technology,Software,Security,Robotics,Web Development,Austin,San Francisco}}{% endif %}">
+  <meta name="author" content="Neil Patil">
+
+  {% seo %}
 </head>

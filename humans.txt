@@ -1,4 +1,3 @@
 /* TEAM */
 Developer: Neil Patil
-Website: https://patil215.github.io
-From: University of Texas at Austin
+Website: https://neilpatil.me

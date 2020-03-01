@@ -131,9 +131,10 @@ hr {
 }
 
 .me {
-	max-width: 120px;
-	max-width: 120px;
+	max-width: 0px;
+	max-width: 0px;
 	margin: 8px;
+	visibility: hidden;
 }
 
 .layer {
