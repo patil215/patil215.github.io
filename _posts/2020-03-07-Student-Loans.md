@@ -3,7 +3,7 @@ layout: post
 title: "Preventive Education for Student Loans"
 image: communitycollege.jpg
 excerpt: ""
-thanks: ""
+thanks: 
 ---
 
 Student debt is a big problem. We've heard the frightening figures: total American student debt is over [$1.6 trillion](https://www.nerdwallet.com/blog/loans/student-loans/student-loan-debt/), and it's going to increase to [$2 trillion](https://www.cnbc.com/2019/09/19/student-debt-continues-to-climb-heres-how-much-graduates-now-owe.html) by 2020. It's at the point where economists fear it could trigger a new [recession](https://knowledge.wharton.upenn.edu/article/student-loan-debt-crisis/). Each day, there are more [horror stories](https://studentdebtcrisis.org/read-student-debt-stories/) describing how yet another person's life was ruined by insurmountable debt.
