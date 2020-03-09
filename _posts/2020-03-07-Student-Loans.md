@@ -30,7 +30,7 @@ This resulted in a set of scenarios that came up over and over again - the most 
 
 Many of these scenarios could have been avoided if the students had better advice. At the time, these students didn't have a sense of what *exactly* paying off a loan would look like. They had no one explaining the financial impact of $50k worth of debt. A recurring quote among students was that the loan amount "just felt like a number - something that didn't feel real."
 
-It's absolutely ridiculous that society asks graduating high school seniors - people who are 17 or 18 - to make such impactful financial decisions. In high school, I had no idea what $50k worth of loans would *actually mean* in day-to-day reality - to be honest, I wonder if I even have that sense now.
+It's absolutely ridiculous that society asks graduating high school seniors - people who are 17 or 18 - to make such impactful financial decisions. In high school, I had no idea how $100k worth of debt would *actually affect* my day-to-day reality - to be honest, I wonder if I even have that sense now.
 
 The real solution is to fix our college system so that students don't have to take out gigantic loans in the first place. But that's going to take a while, and until then, there's a major, preventative responsibility we have: We should teach students how to reason about taking out student loans. If we do that well, we can at least alleviate some of the burden of student debt.
 
