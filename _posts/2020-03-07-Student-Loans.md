@@ -22,11 +22,11 @@ The most consistent pattern was that there wasn't enough of a thought process. M
 
 This resulted in a set of scenarios that came up over and over again - the most common archetypes were:
 
-* A student believes that a small, private college is one of the best places to study what they're interested in. Because it's a small, private college, tuition is high, so they take out loans. After graduating, however, they find out that their field of study makes it hard to find a job that lets them pay back their loans quickly. This was very common among humanities majors.
+* A student believes that a small, private college is one of the best places to study what they're interested in. Because it's a small, private college, tuition is high, so they take out loans. After graduating, however, they find out that their field of study makes it hard to find a job that lets them pay back their loans quickly. This was most common among humanities majors.
 
 * A student is on the fence about going to college, but chooses to enroll because they're told college is a worthwhile investment. They take out student loans and pick a major that they think will pay well. However, a year or two in, they find that their major - and possibly college - isn't a good fit for them. At best, they change majors, resulting in a delayed graduation and more loans. At worst, they drop out of college with debt and no degree.
 
-* A student intends to pursue a field they know leads to high incomes post-graduation. Since the field pays well, they take out heavy loans - believing paying them back will be doable. However, after graduating, they have trouble finding a high income job. This was common among careers that need a lot of investment into school, such as medicine and law.
+* A student intends to pursue a field they know leads to high incomes post-graduation. Since the field pays well, they take out heavy loans - believing paying them back will be doable. However, after graduating, they have trouble finding a high income job that can pay back the loans quickly. This was most common among careers requiring a lot of investment in schooling, such as medicine and law.
 
 Many of these scenarios could have been avoided if the students had better advice. At the time, these students didn't have a sense of what *exactly* paying off a loan would look like. They had no one explaining the financial impact of $50k worth of debt. A recurring quote among students was that the loan amount "just felt like a number - something that didn't feel real."
 
