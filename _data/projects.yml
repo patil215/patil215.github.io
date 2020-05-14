@@ -18,6 +18,13 @@
 # red: #C62828
 #
 
+- name: Helping Hands
+  size: mvr
+  shortDescription: Nonprofit providing free deliveries to the elderly & immunocompromised during COVID-19
+  picture: img/hh.png
+  link: https://helpinghands.community
+  color: '#4A148C'
+
 - name: Big Wave Shoulder Surfing
   size: ms
   shortDescription: Using camera surveillance to steal handwriting
@@ -25,23 +32,6 @@
   link: /doc/surfing.pdf
   github: 
   color: "#4CAF50"
-
-- name: Deep Drone
-  size: ms
-  shortDescription: Investigating using reinforcement learning to fly a drone
-  picture: /img/drone.png
-  link: /doc/drone_paper.pdf
-  github:
-  color: "#1976D2"
-
-- name: Scrapsort
-  size: svr
-  shortDescription: A computer-vision based recycling sorter
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/scrapsort
-  github: 
-  color: "#F4511E"
 
 - name: UTCTF
   size: svr
@@ -52,8 +42,23 @@
   github:
   color: "#4A148C"
 
+- name: Scrapsort
+  size: svr
+  shortDescription: A computer vision based recycling sorter
+  longDescription:
+  picture: 
+  link: https://github.com/patil215/scrapsort
+  github: 
+  color: "#F4511E"
+
+- name: Should I Get Student Loans?
+  size: shr
+  shortDescription: No-nonsense advice for students thinking about college
+  link: https://shouldigetstudentloans.com
+  color: "#1976D2"
+
 - name: Battlecode
-  size: ms
+  size: shr
   shortDescription: My entry into the Battlecode 2018 competition, placing 9th
   link: https://github.com/patil215/battlecode-2018
   github: 
@@ -68,6 +73,14 @@
   link: https://github.com/patil215/rfid-lock
   github: 
   color: "#1976D2"
+
+- name: Deep Drone
+  size: ms
+  shortDescription: Investigating using reinforcement learning to fly a drone
+  picture: /img/drone.png
+  link: /doc/drone_paper.pdf
+  github:
+  color: "#C62828"
 
 - name: Robocup@Home
   size: shr
