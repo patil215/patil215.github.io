@@ -13,7 +13,7 @@ body {
 }
 
 p, ul, li {
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 28px;
 	margin: 0 0 28px;
 }
@@ -49,6 +49,26 @@ p, ul, li {
 
 .post-read-more {
 	display: inline;
+}
+
+.post-content {
+	h1, h2, h3 {
+		margin-top: 48px;
+	}
+	h2 {
+		margin-top: 48px;
+	}
+	h3 {
+		margin-top: 36px;
+	}
+	p {
+		margin-top: 12px;
+		margin-bottom: 12px;
+	}
+	li {
+		margin-top: 6px;
+		margin-bottom: 6px;
+	}
 }
 
 .email {
