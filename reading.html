@@ -1,0 +1,38 @@
+--- 
+title: Reading
+layout: default
+keywords: Neil,Patil,Projects,Technology,Software,Security,Robotics,Web Development,Austin,San Francisco, Reading, Links, People, Articles
+---
+
+{% include nav.html %}
+
+<div class="col-md-12">
+    <h1 class="title">Reading</h1>
+    
+    <p>My favorite part of other people's websites are links to what they read. So, here are mine.</p>
+
+
+    <h2>Books</h2>
+
+    <p>Friend me on <a href="https://www.goodreads.com/user/show/53946421-neil">Goodreads</a>! My book ratings and "want to read" sections are pretty indicative.</p>
+
+
+    <h2>People & Blogs</h2>
+
+    <p>Places on the internet I regularly learn from. Mostly software & technology-related, but I'm branching out over time.</p>
+
+    <p>I update this periodically. If you have recommendations, <a href="mailto:neilpatil215@gmail.com">let me know</a>!</p>
+
+
+    {% assign links = site.data.links | sort: "name" %}
+    <p><ul>
+        {% for link in links %}
+        <li>
+            <a target="_blank" href="{{ link.link }}">
+                {{ link.name }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul></p>
+
+</div>

@@ -2,7 +2,7 @@
 layout: post
 title: "The Right Sentiment"
 image: mooncrowd.jpg
-excerpt: ""
+excerpt: "Part book review, part analysis. Why's it so hard for modern America to emotionally align like we did in the Space Race?"
 thanks: Saagar Pateder
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Effort-Enjoyment Dissonance"
+title: "Enjoyment Dissonance"
 image: yard.jpg
-excerpt: ""
+excerpt: "Thoughts on how one's labor can erode their ability to enjoy the fruits of it."
 thanks: 
 ---
 
@@ -16,11 +16,11 @@ Working ambitiously to acquire wealth might be another example. Everyone fantasi
 
 An even more general example is how workers are encouraged to structure their careers around retirement. Most people give up their twenties, thirties, forties, and fifties to make enough money so that they can enjoy free time for the rest of their lives. But for many people, free time would have been best to have in able-bodied youth. So giving up time for money early in life might have been a bad trade.[^1] It might've been better if society encouraged working 20% less hours for 20% more years instead.
 
-Many people realize these contradictions, but I think sometimes others don't until the very end - until after they've worked hard to achieve an outcome they finally realize they don't enjoy as much as they thought they would. Call it "effort-enjoyment dissonance:" working towards an outcome without realizing doing so erodes the ability to enjoy that outcome.[^2]
+Many people realize these contradictions, but I think sometimes others don't until the very end - until after they've worked hard to achieve an outcome they finally realize they don't enjoy as much as they thought they would. Call it "enjoyment dissonance:" working towards an outcome without realizing doing so erodes the ability to enjoy that outcome.[^2]
 
 That dissonance can result in confusion and unhappiness for those that don't realize it until later. Like the Harvard undergrad that feels pressured to do something prestigious, but doesn't know what, since working to get into Harvard meant they didn't get the chance to find out their true interests before college; or the wealthy person that's restless, cracking under stress, and secretly wishes they were spending their days alone on a fishing boat; or the 67 year old that realizes retirement maybe isn't all that great.[^3]
 
-Effort-enjoyment dissonance comes from working towards outcomes without fully realizing the opportunity cost that comes from achieving them. This is especially easy to fall into when aiming for prestigious goals, since specific, measurable achievements - college acceptances (instead of general success), wealth (instead of fulfilling work), retirement age (instead of meaningful experiences) - don't make obvious all the externalities that go into them. 
+Enjoyment dissonance comes from working towards outcomes without fully realizing the opportunity cost that comes from achieving them. This is especially easy to fall into when aiming for prestigious goals, since specific, measurable achievements - college acceptances (instead of general success), wealth (instead of fulfilling work), retirement age (instead of meaningful experiences) - don't make obvious all the externalities that go into them.
 
 To that end, it's probably worthwhile to periodically reevaluate how your efforts influence the outcomes you're working towards. What are you investing in? What are you hoping to get out of it, and how do your efforts change your ability to reap their rewards? Make sure the returns minus the efforts actually correlate with the successful outcome you want. If not, it might be time to find different things to work towards.
 

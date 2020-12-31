@@ -1,48 +1,46 @@
 ---
-title: Blog
-description: Blog with writing by Neil Patil.
+title: Writing
 layout: default
 keywords: Blog, Neil, Patil, Software, Musings, Writing, Technology
 ---
 
+{% include nav.html %}
 
-<h1 class="title">Writing by Neil Patil</h1>
+<div class="col-md-12">
+  <h1 class="title">Writing</h1>
+  
+  <p>I occasionally write blog posts.</p>
 
-<a href="/">[Back to personal website]</a>
+  <br>
 
-<br>
+  <div id="mc_embed_signup">
+  <form action="https://neilpatil.us4.list-manage.com/subscribe/post?u=365d397ab2ca05240460e6fa1&amp;id=da7adc8f96" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+    <label class="email-label" for="mce-EMAIL">Subscribe for updates on new posts</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_365d397ab2ca05240460e6fa1_da7adc8f96" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+  </form>
+  </div>
 
-<div id="mc_embed_signup">
-<form action="https://neilpatil.us4.list-manage.com/subscribe/post?u=365d397ab2ca05240460e6fa1&amp;id=da7adc8f96" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label class="email-label" for="mce-EMAIL">Subscribe for updates on new posts</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_365d397ab2ca05240460e6fa1_da7adc8f96" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
+  <br>
+
+  {% for post in site.posts %}
+
+  <div class="post-teaser">
+    <a href="{{ post.url }}"><img class="post-image" src="/assets/header/{{ post.image }}"/></a>
+    <a class="post-link post-title" href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+    <p class="post-meta teaser-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+    <p>{{ post.excerpt }}</p>
+    <!-- <p><a href="{{ post.url }}">[Read more]</a></p> -->
+  </div>
+
+  <hr>
+
+  {% endfor %}
+
+  </div>
 </div>
-
-<br>
-
-{% for post in site.posts %}
-
-<div class="post-teaser">
-  <a href="{{ post.url }}"><img class="post-image" src="/assets/header/{{ post.image }}"/></a>
-  <a class="post-link post-title" href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-  <p class="post-meta teaser-date">{{ post.date | date: "%b %-d, %Y" }}</p>
-  <p>{{ post.excerpt }}</p>
-  <!-- <p><a href="{{ post.url }}">[Read more]</a></p> -->
-</div>
-
-<hr>
-
-{% endfor %}
-
-<a href="/">[Back to personal website]</a>
-
-</div>
-
-
 

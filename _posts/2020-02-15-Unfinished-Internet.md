@@ -2,7 +2,7 @@
 layout: post
 title: "The Side Effects of an Unfinished Internet"
 image: goldengate.jpg
-excerpt: ""
+excerpt: "A rambling opinion piece on the internet's negative side-effects. Why hasn't it lived up to what we'd expected?"
 thanks: Ehsan Asdar
 ---
 

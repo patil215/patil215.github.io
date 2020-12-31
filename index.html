@@ -1,49 +1,29 @@
 --- 
+title: Home
 layout: default
-description: Personal website with links to software projects, blog posts, and contact info.
 keywords: Neil,Patil,Projects,Technology,Software,Security,Robotics,Web Development,Austin,San Francisco
 ---
+
+{% include nav.html %}
+
 <div class="col-md-12">
 
 	<h1 class="title">Neil Patil</h1>
-	<br>
 
-	<p>Hey there, I'm Neil. I just finished up college, and I'm interested in computer security and robotics.</p>
+	<p>Hey there! I'm Neil.<p>
 
-	<p>I'm excited about startups. I currently work at <a href="https://vanta.com" target="_blank">Vanta</a>, building tools to secure the internet and improve consumer trust. I spent last summer at <a href="https://ikerobotics.com" target="_blank">Ike Robotics</a> working on self-driving trucks. Before that, I spent summers at <a href="https://facebook.com" target="_blank">Facebook</a>, <a href="https://google.com" target="_blank">Google</a>, <a href="https://indeed.com" target="_blank">Indeed</a>, and <a href="https://atlassian.com" target="_blank">Atlassian</a>.
+	<p>I currently work at <a href="https://vanta.com" target="_blank">Vanta</a> in San Francisco, building tools to prove security and improve consumer trust.</p>
 
-	<p>I recently co-founded <a href="https://helpinghands.community/">Helping Hands</a>, a non-profit providing free deliveries and assistance for the elderly & immunocompromised. If you'd like to partner or find out more, please <a href="mailto:neil@helpinghands.community">reach out</a>!</p>
+	<p>Prior to joining Vanta, I co-founded <a href="https://helpinghands.community/">Helping Hands Community</a>, a non-profit providing food delivery during COVID-19. Before that, I worked on self-driving trucks at <a href="https://ikerobotics.com" target="_blank">Ike</a>, and spent time at <a href="https://facebook.com" target="_blank">Facebook</a>, <a href="https://google.com" target="_blank">Google</a>, <a href="https://indeed.com" target="_blank">Indeed</a>, and <a href="https://atlassian.com" target="_blank">Atlassian</a>.</p>
 
-	<p>In school, I was president of <a href="https://www.isss.io/" target="_blank">ISSS</a>. We run national Capture-the-Flag competitions and teach basic security fundamentals. Our goal is to make security beginner-friendly, improve the culture and diversity of the cybersecurity community, and establish UT as a competitive security powerhouse.</p>
+	<p>My interests are pretty fluid - but as of January 2021, I'm interested in product strategy, organizational security, robotics, perfecting my cooking skills, running, and security education (in school, I was president of <a href="https://www.isss.io/" target="_blank">ISSS</a>).</p>
+
+	<!-- <p>I'm also passionate about security education. In school, I was president of . We run Capture-the-Flag contests and teach basic fundamentals, with the goal of making UT's security community more accessible, competitive, and diverse.</p> -->
+
+	<p>Check out my <a href="/blog">blog</a>, <a href="/projects">projects</a>, and <a href="/reading">things I read</a>.
 
 	<p>If you'd like to find out more about me, here's my <a href="https://github.com/patil215" target="_blank">Github</a>, my <a target="_blank" href="{{ "/doc/resume.pdf" | prepend: site.baseurl }}">resume</a>, my <a target="_blank" href="https://linkedin.com/in/patil215"">LinkedIn</a>, and my <a href="mailto:neilpatil215@gmail.com">email</a>.
 </div>
-
-<div class="col-md-12">
-	<h2 class="title">Blog</h2>
-
-	<p>I write occasional musings on my life, technology, and other things. Go <a href="blog.html">here</a> to check it out.</p>
-</div>
-
-<div class="col-md-12">
-	<h2 class="title">Projects</h2>
-
-
-	<div class="grid">
-
-	{% for project in site.data.projects %}
-	<a target="_blank" href="{{ project.link }}">
-		<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
-			<h1>{{ project.name }}</h1>
-			<p>{{ project.shortDescription }}</p>
-			<div class="layer" style="background-image: url({{ project.picture }});">
-			</div>
-		</div>
-	</a>
-
-	{% endfor %}
-	</div>
-
 
 
 </div>

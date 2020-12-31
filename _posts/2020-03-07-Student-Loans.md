@@ -2,7 +2,7 @@
 layout: post
 title: "Preventive Education for Student Loans"
 image: communitycollege.jpg
-excerpt: ""
+excerpt: "I investigate why students so often fall victim to bad loan agreements, and create a website to help."
 thanks: 
 ---
 
