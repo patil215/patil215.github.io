@@ -1,1 +1,1 @@
-gem 'jekyll-seo-tag'
+gem 'jekyll-seo-tag', '>= 2.6.1'
