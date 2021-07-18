@@ -1,8 +1,8 @@
 
-- name: Eric Weinstein / The Portal
+- name: Eric Weinstein
   link: https://open.spotify.com/show/3qv8BS1HzrgKpDnXSlYWWL
 
-- name: Patrick McKenzie / Kalzumeus Software
+- name: Patrick McKenzie
   link: https://www.kalzumeus.com/greatest-hits/
 
 - name: Philip Guo
@@ -17,8 +17,8 @@
 - name: Paul Graham
   link: http://paulgraham.com/articles.html
 
-- name: Scott Alexander / Slate Star Codex
-  link: https://slatestarcodex.com/
+- name: Scott Alexander
+  link: https://astralcodexten.substack.com/
 
 - name: Zach Lloyd
   link: https://thezbook.com/
@@ -29,7 +29,7 @@
 - name: Donella Meadows
   link: http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
 
-- name: Tanya Reilly / No Idea
+- name: Tanya Reilly
   link: https://noidea.dog/
 
 - name: Shreyas Doshi
@@ -47,7 +47,7 @@
 - name: Patrick Collison
   link: https://patrickcollison.com/questions
 
-- name: Ben Thompson / Stratechery
+- name: Ben Thompson
   link: https://stratechery.com/
 
 - name: PMArchive
@@ -59,14 +59,41 @@
 - name: Dan Wang
   link: https://danwang.co/
 
-- name: Lex Fridman / Lex Fridman Podcast
+- name: Lex Fridman
   link: https://lexfridman.com/
 
-- name: Scott Aaronson / Shtetl-Optimized
+- name: Scott Aaronson
   link: https://www.scottaaronson.com/blog/
 
 - name: Idle Words
   link: https://idlewords.com/
 
-- name: Dan Carlin / Hardcore History
+- name: Dan Carlin
   link: https://www.dancarlin.com/hardcore-history-series/
+
+- name: Matthew Yglesias
+  link: https://www.slowboring.com/
+
+- name: Eugene Wei
+  link: https://www.eugenewei.com/blog
+
+- name: Noah Smith
+  link: https://noahpinion.substack.com/
+
+- name: Vitalik Buterin
+  link: https://vitalik.ca/
+
+- name: Dan Luu
+  link: https://danluu.com/
+
+- name: Venkatesh Rao
+  link: https://www.ribbonfarm.com/
+
+- name: Tomas Pueyo
+  link: https://unchartedterritories.tomaspueyo.com/people/5362415-tomas-pueyo
+
+- name: J. Kenji Lopez-Alt
+  link: https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA
+
+- name: Tyler Cowen
+  link: https://marginalrevolution.com/

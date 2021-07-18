@@ -35,15 +35,21 @@
 
 - name: UTCTF
   size: svr
-  shortDescription: An international computer security contest with 10k+ competitors
+  shortDescription: An international computer security contest
   longDescription: 
   picture: /img/isss.png
   link: https://github.com/utisss
   github:
   color: "#4A148C"
 
+- name: Linquist
+  size: ss
+  shortDescription: Instantly publish your bookmarks
+  link: https://linquist.app/
+  color: '#4CAF50'
+
 - name: Scrapsort
-  size: svr
+  size: ss
   shortDescription: A computer vision based recycling sorter
   longDescription:
   picture: 
