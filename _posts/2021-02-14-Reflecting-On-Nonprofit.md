@@ -2,7 +2,7 @@
 layout: post
 title: "What I learned building a non-profit"
 image: neighborhood.jpg
-excerpt: "In 2020, I co-founded a non-profit. Here's a few things I learned."
+excerpt: ""
 thanks: 
 ---
 
