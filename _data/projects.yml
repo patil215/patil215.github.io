@@ -20,7 +20,7 @@
 
 - name: Helping Hands
   size: mvr
-  shortDescription: Nonprofit providing free deliveries to the elderly & immunocompromised during COVID-19
+  shortDescription: Nonprofit providing free deliveries to elderly & immunocompromised during COVID
   picture: img/hh.png
   link: https://helpinghands.community
   color: '#4A148C'
@@ -45,7 +45,7 @@
 
 - name: shouldigetstudentloans.com
   size: shr
-  shortDescription: Advice for college students (I used to deeply worry about the student debt crisis)
+  shortDescription: Advice for college students (I used to worry about the student debt crisis)
   link: https://shouldigetstudentloans.com
   color: "#1976D2"
 
@@ -60,7 +60,7 @@
 
 - name: manaTEAMS
   size: ms
-  shortDescription: Easily check your grades (looking back, I might've gone to a pretty cutthroat high school...)
+  shortDescription: Easily check your grades (looking back, I think my high school was not normal...)
   longDescription:
   picture: /img/manateams.png
   link: http://manateams.com
