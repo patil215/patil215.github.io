@@ -25,6 +25,48 @@
   link: https://helpinghands.community
   color: '#4A148C'
 
+- name: Geobells
+  size: ms
+  shortDescription: A location-based reminders app (way back from 2012 when apps were fresh and cool)
+  longDescription:
+  picture: /img/geobells.png
+  link: http://geobellsapp.com
+  github: 
+  color: "#4CAF50"
+
+- name: UTCTF
+  size: svr
+  shortDescription: An international computer security contest, we got 5000 teams!
+  longDescription: 
+  picture: /img/isss.png
+  link: https://www.isss.io/utctf/
+  github:
+  color: "#4A148C"
+
+- name: shouldigetstudentloans.com
+  size: shr
+  shortDescription: Advice for college students (I used to deeply worry about the student debt crisis)
+  link: https://shouldigetstudentloans.com
+  color: "#1976D2"
+
+- name: Scrambler
+  size: shr
+  shortDescription: A device built for a hardware contest that got 1st back in high school
+  longDescription:
+  picture:
+  link: http://tinyurl.com/scramblerdevice
+  github: 
+  color: "#F4511E"
+
+- name: manaTEAMS
+  size: ms
+  shortDescription: Easily check your grades (looking back, I might've gone to a pretty cutthroat high school...)
+  longDescription:
+  picture: /img/manateams.png
+  link: http://manateams.com
+  github: 
+  color: "#4A148C"
+
 - name: Big Wave Shoulder Surfing
   size: ms
   shortDescription: Using camera surveillance to steal handwriting
@@ -33,20 +75,13 @@
   github: 
   color: "#4CAF50"
 
-- name: UTCTF
-  size: svr
-  shortDescription: An international computer security contest
-  longDescription: 
-  picture: /img/isss.png
-  link: https://github.com/utisss
-  github:
-  color: "#4A148C"
-
-- name: Linquist
-  size: ss
-  shortDescription: Instantly publish your bookmarks
-  link: https://linquist.app/
-  color: '#4CAF50'
+- name: Battlecode
+  size: shr
+  shortDescription: My entry into the Battlecode 2018 competition, placing 9th
+  link: https://github.com/patil215/battlecode-2018
+  github: 
+  picture: /img/battlecode.png
+  color: "#C62828"
 
 - name: Scrapsort
   size: ss
@@ -56,20 +91,6 @@
   link: https://github.com/patil215/scrapsort
   github: 
   color: "#F4511E"
-
-- name: Should I Get Student Loans?
-  size: shr
-  shortDescription: No-nonsense advice for students thinking about college
-  link: https://shouldigetstudentloans.com
-  color: "#1976D2"
-
-- name: Battlecode
-  size: shr
-  shortDescription: My entry into the Battlecode 2018 competition, placing 9th
-  link: https://github.com/patil215/battlecode-2018
-  github: 
-  picture: /img/battlecode.png
-  color: "#C62828"
 
 - name: RFID Lock
   size: svr
@@ -122,24 +143,6 @@
   github: 
   color: "#F4511E"
 
-- name: Geobells
-  size: ms
-  shortDescription: A location-based reminders app
-  longDescription:
-  picture: /img/geobells.png
-  link: http://geobellsapp.com
-  github: 
-  color: "#4CAF50"
-
-- name: manaTEAMS
-  size: ms
-  shortDescription: Easily check your grades
-  longDescription:
-  picture: /img/manateams.png
-  link: http://manateams.com
-  github: 
-  color: "#4A148C"
-
 - name: QuickHAC
   size: ms
   shortDescription: View your AISD and RRISD assignments
@@ -149,24 +152,6 @@
   github: 
   color: "#1976D2"
 
-- name: Battlecode
-  size: ss
-  shortDescription: My entry into the Battlecode 2017 competition
-  longDescription:
-  picture: 
-  link: https://github.com/patil215/battlecode
-  github: 
-  color: "#607D8B"
-
-- name: Intube
-  size: ss
-  shortDescription: Use computer vision to search "within" Youtube videos
-  longDescription:
-  picture:
-  link: https://github.com/iRapha/search_within_videos
-  github: 
-  color: "#C62828"
-
 - name: Golden Gate Science Olympiad
   size: shr
   shortDescription: A Science Olympiad competition at Berkeley and Stanford
@@ -175,15 +160,6 @@
   link: http://goldengateso.com
   github: 
   color: "#C62828"
-
-- name: Scrambler
-  size: shr
-  shortDescription: My nationals-winning Science Olympiad device
-  longDescription:
-  picture:
-  link: http://tinyurl.com/scramblerdevice
-  github: 
-  color: "#F4511E"
 
 - name: Boardly
   size: ss
@@ -205,12 +181,18 @@
 
 - name: SmArtGallery
   size: shr
-  shortDescription: A digital art gallery
+  shortDescription: We tried to put art online...
   longDescription:
   picture: /img/daylighted.png
-  link: https://day-lighted.com
+  link: https://daylighted.com
   github: 
   color: "#424242"
+
+- name: Linquist
+  size: ss
+  shortDescription: Instantly publish your bookmarks
+  link: https://linquist.app/
+  color: '#4CAF50'
 
 - name: LASA SciO
   size: ss

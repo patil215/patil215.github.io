@@ -9,17 +9,9 @@ keywords: Neil,Patil,Projects,Technology,Software,Security,Robotics,Web Developm
 <div class="col-md-12">
 	<h1 class="title">Projects</h1>
 
-	<div class="grid">
+	<p>(roughly sorted by pride)</p>
 
 	{% for project in site.data.projects %}
-	<a target="_blank" href="{{ project.link }}">
-		<div class="grid-item grid-item-{{ project.size }}" style="background-color: {{ project.color }};">
-			<h1>{{ project.name }}</h1>
-			<p>{{ project.shortDescription }}</p>
-			<div class="layer" style="background-image: url({{ project.picture }});">
-			</div>
-		</div>
-	</a>
-
+		<li><a target="_blank" href="{{ project.link }}">{{ project.name }}</a> - {{ project.shortDescription }}</li>
 	{% endfor %}
 </div>
