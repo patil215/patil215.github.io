@@ -33,6 +33,12 @@ p, li {
 	margin-top: 18px;
 }
 
+.post-content > p > img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
 .content-image {
 	max-width: 100%;
 }
