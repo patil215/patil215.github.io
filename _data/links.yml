@@ -1,123 +1,237 @@
 
-- name: Eric Weinstein
-  link: https://open.spotify.com/show/3qv8BS1HzrgKpDnXSlYWWL
-
-- name: Patrick McKenzie
-  link: https://www.kalzumeus.com/greatest-hits/
-
-- name: Philip Guo
-  link: https://pg.ucsd.edu/
-
-- name: David Perell
-  link: https://perell.com/essays/page/1/
-
-- name: Gwern
-  link: https://www.gwern.net/index#
-
-- name: Paul Graham
-  link: http://paulgraham.com/articles.html
-
-- name: Scott Alexander
-  link: https://astralcodexten.substack.com/
-
-- name: Zach Lloyd
-  link: https://thezbook.com/
-
-- name: Luke Kanies
-  link: https://lukekanies.com/
-
-- name: Donella Meadows
-  link: http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
-
-- name: Tanya Reilly
-  link: https://noidea.dog/
-
-- name: Shreyas Doshi
-  link: https://twitter.com/shreyas/status/1303150374124048386
-
-- name: Overcoming Bias
-  link: https://www.overcomingbias.com/
-
-- name: Sriram Krishnan
-  link: https://sriramk.com/
-
-- name: Lenny Rachitsky
-  link: https://www.lennyrachitsky.com/
-
-- name: Patrick Collison
-  link: https://patrickcollison.com/questions
-
-- name: Ben Thompson
-  link: https://stratechery.com/
-
-- name: PMArchive
-  link: https://pmarchive.com/
-
-- name: Sarah Constantin
-  link: https://srconstantin.wordpress.com/
-
-- name: Dan Wang
-  link: https://danwang.co/
-
-- name: Lex Fridman
-  link: https://lexfridman.com/
-
-- name: Scott Aaronson
-  link: https://www.scottaaronson.com/blog/
-
-- name: Idle Words
-  link: https://idlewords.com/
-
-- name: Dan Carlin
-  link: https://www.dancarlin.com/hardcore-history-series/
-
-- name: Matthew Yglesias
-  link: https://www.slowboring.com/
-
-- name: Eugene Wei
-  link: https://www.eugenewei.com/blog
-
-- name: Noah Smith
-  link: https://noahpinion.substack.com/
-
-- name: Vitalik Buterin
-  link: https://vitalik.ca/
-
-- name: Dan Luu
-  link: https://danluu.com/
-
-- name: Venkatesh Rao
-  link: https://www.ribbonfarm.com/
-
-- name: Tomas Pueyo
-  link: https://unchartedterritories.tomaspueyo.com/people/5362415-tomas-pueyo
-
-- name: J. Kenji Lopez-Alt
-  link: https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA
-
-- name: Tyler Cowen
-  link: https://marginalrevolution.com/
-
-- name: Full Stack Economics
-  link: https://fullstackeconomics.com/
-
-- name: Tasshin Fogleman
-  link: https://tasshin.com/blog/category/essays/
-
-- name: Devon Zuegel
-  link: https://devonzuegel.com/
+- name: Adithyan
+  link: https://www.adithyan.io/blog
 
 - name: Allan Reyes
   link: https://allan.reyes.sh/
 
-- name: Nicky Case
-  link: https://blog.ncase.me/
+- name: apenwarr
+  link: https://apenwarr.ca/log/
+
+- name: Ariadne's Space
+  link: https://ariadne.space/
+
+- name: Asimov Press
+  link: https://www.asimov.press/
+
+- name: AVC
+  link: https://avc.com/
+
+- name: Balaji Srinivasan
+  link: https://balajis.com/
+
+- name: Ben Kuhn
+  link: https://www.benkuhn.net/
+
+- name: Ben Thompson
+  link: https://stratechery.com/
+
+- name: Benn Stancil
+  link: https://benn.substack.com/
+
+- name: Boolean Biotech
+  link: https://blog.booleanbiotech.com/
+
+- name: Brendan Gregg
+  link: https://www.brendangregg.com/blog/
+
+- name: Campbell Ramble
+  link: https://campbellramble.substack.com/
+
+- name: Chamath Palihapitiya
+  link: https://chamath.substack.com/
+
+- name: Cold Takes
+  link: https://www.cold-takes.com/
+
+- name: Construction Physics
+  link: https://constructionphysics.substack.com/
+
+- name: Corin Wagen
+  link: https://cwagen.substack.com/
+
+- name: Dan Carlin
+  link: https://www.dancarlin.com/hardcore-history-series/
+
+- name: Dan Luu
+  link: https://danluu.com/
+
+- name: Dan Wang
+  link: https://danwang.co/
+
+- name: Devon Zuegel
+  link: https://devonzuegel.com/
+
+- name: Donella Meadows
+  link: http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+
+- name: Elad Gil
+  link: https://blog.eladgil.com/
+
+- name: Elana Simon
+  link: https://elanapearl.github.io/blog/
+
+- name: Eric Jang
+  link: https://evjang.com/
+
+- name: Eugene Wei
+  link: https://www.eugenewei.com/blog
+
+- name: Full Stack Economics
+  link: https://www.fullstackeconomics.com/
+
+- name: Gentle Defiance
+  link: https://gentledefiance.substack.com/
+
+- name: Neal Stephenson
+  link: https://nealstephenson.substack.com/
+
+- name: Gwern
+  link: https://www.gwern.net/index#
+
+- name: Idle Words
+  link: https://idlewords.com/
+
+- name: Irrational Exuberance
+  link: https://lethain.com/
+
+- name: Jacob Kaplan-Moss
+  link: https://jacobian.org/
+
+- name: J. Kenji Lopez-Alt
+  link: https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA
+
+- name: Ken Kantzer
+  link: https://kenkantzer.com/
 
 - name: Kyle Mitchell
   link: https://writing.kemitchell.com/
 
+- name: Latent Space
+  link: https://www.latent.space/
+
+- name: Laurence Tratt
+  link: https://tratt.net/laurie/blog/
+
+- name: Lenny Rachitsky
+  link: https://www.lennyrachitsky.com/
+
+- name: Latio Pulse
+  link: https://pulse.latio.tech/
+
+- name: Luke Kanies
+  link: https://lukekanies.com/
+
+- name: Ethan Ding
+  link: https://ethanding.substack.com/
+
+- name: Matthew Yglesias
+  link: https://www.slowboring.com/
+
+- name: Matt Rickard
+  link: https://blog.matt-rickard.com/
+
+- name: Maximum New York
+  link: https://www.maximumnewyork.com/
+
+- name: Max Tabarrok
+  link: https://www.maximum-progress.com/
+
+- name: Nabeel S. Qureshi
+  link: https://nabeelqu.co/
+
+- name: Nicky Case
+  link: https://blog.ncase.me/
+
+- name: Noah Smith
+  link: https://noahpinion.substack.com/
+
+- name: Notes from Matt Brown
+  link: https://notes.mtb.xyz/
+
+- name: Owl Posting
+  link: https://www.owlposting.com/
+
+- name: Overcoming Bias
+  link: https://www.overcomingbias.com/
+
+- name: Palladium
+  link: https://palladiummag.com/
+
+- name: Patrick Collison
+  link: https://patrickcollison.com/questions
+
+- name: Patrick McKenzie
+  link: https://www.kalzumeus.com/greatest-hits/
+
 - name: Paul Copplestone
   link: https://paul.copplest.one/blog/
 
-- name: Benn Stancil
-  link: https://benn.substack.com/
+- name: Paul Graham
+  link: http://paulgraham.com/articles.html
+
+- name: Philip Guo
+  link: https://pg.ucsd.edu/
+
+- name: PMArchive
+  link: https://pmarchive.com/
+
+- name: Rodney Brooks
+  link: https://rodneybrooks.com/blog/
+
+- name: Sarah Constantin
+  link: https://srconstantin.wordpress.com/
+
+- name: Scott Aaronson
+  link: https://www.scottaaronson.com/blog/
+
+- name: Scott Alexander
+  link: https://astralcodexten.substack.com/
+
+- name: Shreyas Doshi
+  link: https://shreyasdoshi.substack.com/
+
+- name: Shrivu's Substack
+  link: https://blog.sshh.io/
+
+- name: Steve Blank
+  link: https://steveblank.com/
+
+- name: Tanya Reilly
+  link: https://noidea.dog/
+
+- name: Tasshin Fogleman
+  link: https://tasshin.com/blog/category/essays/
+
+- name: "The Latticework: Musings on Mental Models and More"
+  link: https://proby.substack.com/
+
+- name: The Sideways View
+  link: https://sideways-view.com/
+
+- name: The Singularity is Nearer
+  link: https://www.thesingularityisnearer.com/
+
+- name: Tomas Pueyo
+  link: https://unchartedterritories.tomaspueyo.com/people/5362415-tomas-pueyo
+
+- name: Tomasz Tunguz
+  link: https://tomtunguz.com/
+
+- name: Tyler Cowen
+  link: https://marginalrevolution.com/
+
+- name: Unfashionable
+  link: https://unfashionable.blog/
+
+- name: Venkatesh Rao
+  link: https://www.ribbonfarm.com/
+
+- name: Vitalik Buterin
+  link: https://vitalik.ca/
+
+- name: Zach Lloyd
+  link: https://thezbook.com/
+
+- name: Zhengdong Wang
+  link: https://zhengdongwang.com/
