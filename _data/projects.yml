@@ -25,6 +25,12 @@
   link: https://helpinghands.community
   color: '#4A148C'
 
+- name: Model Golf
+  size: shr
+  shortDescription: Code golf, but for LLM prompts
+  link: https://www.model.golf/
+  color: "#1976D2"
+
 - name: Geobells
   size: ms
   shortDescription: A location-based reminders app (way back from 2012 when apps were fresh and cool)
