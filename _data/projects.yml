@@ -18,9 +18,9 @@
 # red: #C62828
 #
 
-- name: Helping Hands
+- name: HHC
   size: mvr
-  shortDescription: Nonprofit providing free deliveries to elderly & immunocompromised during COVID
+  shortDescription: Nonprofit delivering 2M meals during COVID
   picture: img/hh.png
   link: https://helpinghands.community
   color: '#4A148C'
@@ -33,7 +33,7 @@
 
 - name: Geobells
   size: ms
-  shortDescription: A location-based reminders app (way back from 2012 when apps were fresh and cool)
+  shortDescription: The first location-based reminders app
   longDescription:
   picture: /img/geobells.png
   link: http://geobellsapp.com
@@ -42,18 +42,12 @@
 
 - name: UTCTF
   size: svr
-  shortDescription: An international computer security contest, we got 5000 teams!
+  shortDescription: An international computer security contest drawing 15000 players
   longDescription: 
   picture: /img/isss.png
   link: https://www.isss.io/utctf/
   github:
   color: "#4A148C"
-
-- name: shouldigetstudentloans.com
-  size: shr
-  shortDescription: Advice for college students (I used to worry about the student debt crisis)
-  link: https://shouldigetstudentloans.com
-  color: "#1976D2"
 
 - name: Scrambler
   size: shr
@@ -124,7 +118,7 @@
 
 - name: Water Alarm
   size: ss
-  shortDescription: An alarm clock that dumps water on my head
+  shortDescription: Wake up by dumping water on your head
   longDescription:
   picture: 
   link: https://github.com/patil215/water-alarm
@@ -187,7 +181,7 @@
 
 - name: SmArtGallery
   size: shr
-  shortDescription: We tried to put art online...
+  shortDescription: We tried to put art on TV screens
   longDescription:
   picture: /img/daylighted.png
   link: https://daylighted.com
@@ -208,3 +202,11 @@
   link: http://lasascio.com
   github: 
   color: "#4A148C"
+
+- name: shouldigetstudentloans.com
+  size: shr
+  shortDescription: Advice for college students
+  link: https://shouldigetstudentloans.com
+  color: "#1976D2"
+
+
