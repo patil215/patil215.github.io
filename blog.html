@@ -26,6 +26,7 @@ keywords: Blog, Neil, Patil, Software, Musings, Writing, Technology
   <br>
 
   {% for post in site.posts %}
+  {% unless post.private %}
 
   <div class="post-teaser">
     <a href="{{ post.url }}"><img class="post-image" src="/assets/header/{{ post.image }}"/></a>
@@ -37,6 +38,7 @@ keywords: Blog, Neil, Patil, Software, Musings, Writing, Technology
 
   <hr>
 
+  {% endunless %}
   {% endfor %}
 
   </div>
