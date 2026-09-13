@@ -2,7 +2,7 @@
 layout: post
 title: "On Speculative Anxiety"
 date: 2026-09-13
-permalink: /2026/09/13/thoughts-on-ai/
+permalink: /2026/09/13/on-speculative-anxiety/
 private: true
 ---
 
